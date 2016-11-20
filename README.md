@@ -7,12 +7,12 @@ Installation
 ------------
 
 1. Open Eagle and select the `Control Panel` window.
-2. Choose `Options` and from the drop down that appears, `Directories`.
-3. Add the new paths after the existing ones.  For example, from: `$EAGLEDIR/lbr` to something like:
+2. Choose `Options -> Directories...`.
+3. Add the new paths after the existing ones.  For example, change `$EAGLEDIR/lbr` to:
 
-    > $EAGLEDIR/lbr:$HOME/Flying Camp Design/EAGLE/lbr (for OS X)
+    > $EAGLEDIR/lbr:$HOME/Flying Camp Design/EAGLE/Flying Camp Design - Libraries (for OS X)
 
-    > $EAGLEDIR\lbr;$HOME\Flying Camp Design\EAGLE\lbr (for Windows)
+    > $EAGLEDIR\lbr;$HOME\Flying Camp Design\EAGLE\Flying Camp Design - Libraries (for Windows)
 
 4. Click `OK` to save your changes.
 5. Restart Eagle. The library should be now be usable.
